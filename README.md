@@ -9,7 +9,7 @@
 
 ##### BIO
 
-- 🏢 I'm currently working at **Specialist Computer Centres Vietnam (SCC Vietnam)**
+- 🏢 I'm currently working at **Hansen Technologies**
 - ⚙️ I use daily: `.csharp`, `.javascript`, `.html`, `.scss`
 - 🌍 I'm mostly active within the **J2Team Community**
 - 🌱 Learning all about **Design Pattern**
