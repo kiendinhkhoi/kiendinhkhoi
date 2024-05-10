@@ -9,7 +9,6 @@
 
 ##### BIO
 
-- 🏢 I'm currently working at **Hansen Technologies**
 - ⚙️ I use daily: `.csharp`, `.javascript`, `.html`, `.scss`
 - 🌍 I'm mostly active within the **EDC & Tactical Group**
 - 🌱 Learning all about **Design Pattern**
